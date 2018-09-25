@@ -1,23 +1,32 @@
 //Business Logic
-function Options(a,b,c,d) {
-    this.opt= a,
+function Options(question,a,b,c,d) {
+    this.question = question,
+    this.opt1 = a,
     this.opt2 = b,
     this.opt3 = c,
     this.opt4 = d,
 }
 
-var ques1 = new Options("ECMAScript","Vue","Java","None of the above")
+var ques1 = new Options("What is the other name for JavaScript?","ECMAScript","Vue","Java","None of the above")
 
-var ques2 = new Options("It is an element of JavaScript which allows prototypal inheritance", "A constructor is a method used to create objects", "A constructor is used to create objects", "A constructor creates and initializes an object within an id"
+var ques2 = new Options("What is most true about a constructor?","It is an element of JavaScript which allows prototypal inheritance", "A constructor is a method used to create objects", "A constructor is used to create objects", "A constructor creates and initializes an object within an id"
 
-var ques3 = new Options("An array", "An object", "A multi-string", "None of the above")
+var ques3 = new Options("I have multiple elements which I would like to encapsulate. What do I use?","An array", "An object", "A multi-string", "None of the above")
 
-var ques4  = new Options("Use console.log to check for breaks", "Confirming file paths for fetched documents i.e .js, .css", "Unminify your code", "All of the above")
-Question.prototype.clicks = function(){
+var ques4  = new Options("What way can JS code be debugged?","Use console.log to check for breaks", "Confirming file paths for fetched documents i.e .js, .css", "Unminify your code", "All of the above")
+
+Options.prototype.clicks = function(){
     var keys = Object.keys(this)
     var values = Object.values(this)
     for (var i = 0; i < keys.length; i++) {
-        $(".answer").append("<li class='opt'>" + "keys[i]" + ". "+ values[i]+ "</li>")
+        if (i = 0) { $("p.answer").append(values[0])
+      } else {
+        $("input::checked").val();
+        $(".answer").append("<li>" + keys[i] + ". "+ "<label>
+          <input type='radio  value="ECMAScript" checked>"
+          values[i]
+        "</label>" + "</li>")
+      }
     };
 }
 
