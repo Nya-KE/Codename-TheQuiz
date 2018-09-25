@@ -1,0 +1,35 @@
+html {
+  background-color: rgb(112, 177, 172);
+  /*background-color: #48D1CC; */
+}
+
+body {
+    background-color: rgb(112, 177, 172);
+}
+
+h1 {
+  font-weight: 800;
+  background-color: white;
+  width: 100px;
+}
+h6 {
+    color: white;
+    font-weight: 600;
+}
+
+#row2 div.col-md-12 {
+  background-image: url(../images/linepaper.jpeg);
+  font-weight: bold;
+  align-content: center;
+  text-align: center;
+  max-height: 2000px;
+  min-width: 585px;
+  max-width: 1190px;
+  border-style: dotted;
+
+}
+#row2 div.col-md-12 p {
+  padding: 10px;
+  margin: 10px;
+  border-style: dotted;
+}
