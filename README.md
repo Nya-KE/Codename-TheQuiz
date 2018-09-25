@@ -13,7 +13,7 @@ Git clone
 ## Behavioural Driven Design
 |Specifications|Input Example|Output Example|
 |--------------|-------------|--------------|
-|User is allotted point(s) once correct answer is chosen amongst options | User selects option "a" from between "b","c","d". <br> <br> For example, to the question, "What is most true about Javascript?" <br> <br> Response "a" reads, "JavaScript was being developed under the name Mocha.| Notification on HTML displays points scored from question. <br> <br> For example, Score: 10 pts  |
+|User is allotted point(s) once correct answer is chosen from  options | User selects option "a" from between "b","c","d". <br> <br> For example, to the question, "What is most true about Javascript?" <br> <br> Response "a" reads, "JavaScript was being developed under the name Mocha.| Notification on HTML displays points scored from question. <br> <br> For example, Score: 10 pts  |
 
 ## Technology Used
 * HTML
