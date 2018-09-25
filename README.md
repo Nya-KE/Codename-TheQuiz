@@ -33,8 +33,13 @@ Git clone
 (C)2018 <br>
 nya_KE <br>
 Images sources:<br>
-[hamster.png](https://melbournechapter.net/images/hamster-wheel-clipart-6.png) <br>
-
+[hamster.png](https://melbournechapter.net/images/hamster-wheel-clipart-6.png)<br>
+[quiz1.jpeg](http://thesocialmediamonthly.com/wp-content/uploads/2018/01/quiz.jpg)<br>
+[survey-checklist.png](https://www.checkmarket.com/wp-content/uploads/2016/08/survey-checklist.png)<br>
+[pencil.jpeg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRXAkLiuTZ4ClHBby-idmPhgcADBV0Vy3iqc_t2wSuwfS5iFwz2bA)<br>
+[challenge.png](http://smallbizclub.com/sales-and-marketing/advertising-and-lead-generation/how-to-create-your-own-social-media-quiz-for-lead-generation/)
+[codename.jpeg](https://cdn.frankwatching.com/app/uploads/2017/10/quiz-mogelijkheden.jpg)
+[linepaper.jpg](https://www.vectorstock.com/royalty-free-vector/blank-note-paper-on-transparent-background-vector-16310930)
 Other sources:
 [HTML Color(s)](insert)
 
