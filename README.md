@@ -8,11 +8,25 @@ A webpage which allows users to engage in a multiple choice questionnaire where 
 Git clone
 `git clone https://github.com/Nya-KE/<insert>
 ``
+## Behavioural Driven Design
+|Specifications|Input Example|Output Example|
+|--------------|-------------|--------------|
+| User selects answer(s) to score point(s) | | Athens, Parthenon, Summer, Colourful, Image, Moussaka  |
 
-additional :)
+## Technology Used
+* HTML
+* JavaScript
+* CSS
+* PNG, JPEG
+
+## Installation Requirements
 * WiFi
 * High Resolution Screen
 * Typical web browser e.g  Chrome, Safari
+
+#### Copyright
+)
+
 
 #### Behaviour Driven Design Concept Note
 
@@ -22,7 +36,10 @@ additional :)
 [Magical Triangle] <insert>
 
 #### Copyright & License Info
-(c)2018 nya_KE
+(C)2018 <br>
+nya_KE <br>
+Images sources:<br>
+[hamster.png](https://melbournechapter.net/images/hamster-wheel-clipart-6.png)
 
 Background Image credits to:
 <insert>
