@@ -1,5 +1,35 @@
 //Business Logic
 
+//fetch values
+/* paste form "<form name="questions">  </form>" in HTML as this enables the below filepath using names to work
+function check(){
+  var ques1 = document.questions.ques1.value;
+  var ques2 = document.questions.ques2.value;
+  var ques3 = document.questions.ques3.value;
+  var ques4 = document.questions.ques4.value;
+  var ques5 = document.questions.ques5.value;
+  var answersum = 0
+}
+if (ques1 == "correct"){
+  answersum += 2;
+};
+if (ques2 == "correct"){
+  answersum += 2;
+};
+if (ques3 == "correct"){
+  answersum += 2;
+};
+if (ques4 == "correct"){
+  answersum += 2;
+};
+if (ques5 == "correct"){
+  answersum += 2;
+};
+*/
+//integer values
+
+//add values and push sum to html
+
 //User Interface
 $(document).ready(function(){
     $(".start").click(function(){
