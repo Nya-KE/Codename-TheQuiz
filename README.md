@@ -29,6 +29,10 @@ Git clone
 #### Link to Website:
 [Codename: The Quiz](https://nya-ke.github.io/Codename-TheQuiz/)
 
+#### Known Bugs
+- If convential sequencing of proceeds not followed multiple questions can display on page.
+- If page not refreshed previous entries retained on respective pages
+
 #### Copyright & License Info
 (C)2018 <br>
 nya_KE <br>
