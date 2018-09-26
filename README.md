@@ -1,4 +1,4 @@
-# Magical Triangle
+# CodeName: theQuiz
 ### {Moringa School Project}
 #### {21/09/2018}
 ### By {Nyakio Mburu}
