@@ -23,6 +23,10 @@ $(document).ready(function(){
     });
     $(".proceed5").click(function(){
     $("div#ques5").hide()
+    $("div#scoresheet").show()
+    });
+    $(".proceedsheet").click(function(){
+    $("div#scoresheet").hide()
     $("div#score").show()
     });
 })
