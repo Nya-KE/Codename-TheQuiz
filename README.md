@@ -26,6 +26,17 @@ Git clone
 * High Resolution Screen
 * Typical web browser e.g  Chrome, Safari
 
+#### Known Bugs
+* Multiple questions can be viewed simultaneously when conventional proceed progression is not followed.
+* Previous answers intact when quiz is restarted without refreshing page
+
+#### Shout-Outs:
+* Ram for his killer scoring code help.
+* Fred for his insight on alternative scoring code and for letting me use most of our lesson to sort out last week's IP. 
+* Moses for teaching me that "Google is my friend" and holding my hand to calm.
+* Maryann and Nignan for tolerating my mad attempts at using constructors to list questions WITH buttons - like what!
+* Dear Jesus, for always being there to receive my frequent and desperate pleas for mental fortitude and survival.
+
 #### Link to Website:
 [Codename: The Quiz](https://nya-ke.github.io/Codename-TheQuiz/)
 
