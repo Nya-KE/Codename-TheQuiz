@@ -33,6 +33,6 @@ h6 {
   margin: 10px;
   border-style: dotted;
 }
-div #ques1 {
+div #ques1, #ques2, #ques3, #ques4, #ques5{
   display: none;
 }

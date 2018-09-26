@@ -60,3 +60,11 @@ $(document).ready(function(){
                 Cookies & Cream
 
       */
+
+"<div id='ques'><center><p>" + keys[i] + "</p><label><input type='radio':checked>" + values[i] + "</label> <br><button type='radio' class='button'>Proceed</button><centre></div>"
+
+<div id="ques">
+  <center><p>" + keys[i] + "</p>
+    <label><input type="radio":checked>" + values[i] + "</label> <br>
+    <button type="radio" class="button">Proceed</button><centre>
+</div>
